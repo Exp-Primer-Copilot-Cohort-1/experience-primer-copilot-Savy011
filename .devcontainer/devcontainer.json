@@ -1,0 +1,10 @@
+{
+    "name": "Codespace for the primer assignment!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
